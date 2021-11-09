@@ -3,6 +3,10 @@
   background-color: white;
 }
 
+#inLogo {
+  margin-left: 100px;
+}
+
 input.searche {
   height: 36px;
   max-width: 500px;
