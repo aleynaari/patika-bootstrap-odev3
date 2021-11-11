@@ -152,7 +152,7 @@ button.ref:hover {
   text-align: center;
 }
 
-#stickySidebar {
+#stickySidebar,  #stickySidebar2 {
   top: 4rem;
   position: sticky;
   overflow: visible;
