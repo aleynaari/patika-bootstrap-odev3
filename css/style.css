@@ -151,7 +151,7 @@ button.ref:hover {
 }
 
 #stickySidebar {
-  top: 60px;
+  top: 4rem;
   position: sticky;
   overflow: visible;
 }
