@@ -23,6 +23,7 @@ input.searche::placeholder {
   color: gray;
   background-image: url(/assets/search-solid.svg);
   background-repeat: no-repeat;
+  background-position: left;
   background-size: 7%;
 }
 
@@ -138,5 +139,13 @@ button.ref:hover {
 }
 
 .sagNav {
-  margin-left: 190px;
+  margin-left: 100px;
+}
+
+.nav-item {
+  text-align: center;
+}
+
+.form-control {
+  text-align: center;
 }
