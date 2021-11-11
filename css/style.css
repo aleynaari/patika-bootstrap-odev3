@@ -149,3 +149,9 @@ button.ref:hover {
 .form-control {
   text-align: center;
 }
+
+#stickySidebar {
+  top: 60px;
+  position: sticky;
+  overflow: visible;
+}
