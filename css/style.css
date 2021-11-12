@@ -160,4 +160,9 @@ button.ref:hover {
 
 .btn {
   background-color: #fff;
+  margin: 6px;
+}
+
+.btn:hover {
+  background-color: #ebebeb;
 }
