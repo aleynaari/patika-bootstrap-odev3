@@ -157,3 +157,7 @@ button.ref:hover {
   position: sticky;
   overflow: visible;
 }
+
+.btn {
+  background-color: #fff;
+}
