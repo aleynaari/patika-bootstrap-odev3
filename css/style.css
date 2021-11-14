@@ -166,3 +166,7 @@ button.ref:hover {
 .btn:hover {
   background-color: #ebebeb;
 }
+
+.bldrmSayi {
+  margin-left: -10px;
+}
